@@ -2,11 +2,11 @@
 
 ## 목차
 
--   Git이란?
--   Git 기본 명령어
--   브랜치와 병합
--   GitHub 사용
--   추가 리소스
+-   [Git이란?](https://github.com/maedachaeva/minihomepage?tab=readme-ov-file#git%EC%9D%B4%EB%9E%80)
+-   [Git 기본 명령어](https://github.com/maedachaeva/minihomepage?tab=readme-ov-file#git%EC%9D%B4%EB%9E%80)
+-   [브랜치와 병합]()
+-   [GitHub 사용](https://github.com/maedachaeva/minihomepage?tab=readme-ov-file#git%EC%9D%B4%EB%9E%80)
+-   [추가 리소스](https://github.com/maedachaeva/minihomepage?tab=readme-ov-file#git%EC%9D%B4%EB%9E%80)
 
 ---
 
